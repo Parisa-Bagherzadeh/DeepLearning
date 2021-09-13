@@ -1,11 +1,12 @@
 
 
 |     Dataset            | MLP.(accuracy)          | MLP+CNN  |
-| -------------          |:-------------:          | -----:   |
-|     mnist              |         
-|   fashion_mnist        |                         |   $12    |
-|     cfar10             |         are neat        |    $1    |
-|    cfar100             |         are neat        |    $1    |
+| -------------          |:-------------:          | -----:
+|
+|     mnist              |         0.95            |   0.90   |
+|   fashion_mnist        |         0.82            |   0.79   |
+|     cfar10             |         0.10            |   0.63   |
+|    cfar100             |         0.01            |   0.24   |
 
 
 
