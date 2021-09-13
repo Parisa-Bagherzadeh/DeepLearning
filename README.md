@@ -1,6 +1,6 @@
 
 
-|     Dataset            | MLP.(accuracy)          | MLP+CNN  |
+|     Dataset            | MLP.(accuracy)          | CNN+MLP  |
 | -------------          |:-------------:          | -----:
 |                        |                         |          |
 |     mnist              |         0.95            |   0.90   |
