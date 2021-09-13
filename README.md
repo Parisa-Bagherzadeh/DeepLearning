@@ -1,6 +1,6 @@
 
 
-|   Dataset              |         MLP             | CNN+MLP  |
+| Dataset                |         MLP             | CNN+MLP  |
 | -------------          |:-------------:          | -----:   |
 |     mnist              |         0.95            |  0.90    |
 |   fashion_mnist        |         0.82            |  0.79    |
