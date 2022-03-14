@@ -1,9 +1,11 @@
 # Classification model on four datasets
+  
+  This classification model classifies 4 objects
    
-  * Car
-  * Dress 
-  * House
-  * Pizza
+  * Car   🚗
+  * Dress 👗
+  * House 🏠
+  * Pizza 🍕
 
    
    <table>
