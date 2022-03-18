@@ -4,7 +4,7 @@
    also you can use this telegram bot <a href='https://t.me/parisabagherzadeh_bot'>@parisabagherzadeh_bot</a>  to do the job</br>
    To use this bot , just send a picture of a sheykh or a normal person to the bot</br>
 
-   The model used here is VGG16</br>
+   <strong>The model used here is VGG16</strong></br>
 
    <table>
      <tr>
