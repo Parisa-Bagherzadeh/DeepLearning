@@ -1,7 +1,7 @@
 # Real time face mask  detector 
   
 This is a model based on vgg16 which detects face mask in real time</br>
-To train the model this dataset https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset is used
+To train the model this dataset https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset is used</br>
 To use the model :</br>
 first save the model from Face_Mask_Detection.ipynb file</br>
 then run inference.py file
