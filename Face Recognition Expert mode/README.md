@@ -16,7 +16,7 @@
     <td>0.008</td>
    </tr>
    <tr>
-    <td>Val</td>
+    <td>Validation</td>
     <td>0.81</td>
     <td>0.01</td>
    </tr>
