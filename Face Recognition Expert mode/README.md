@@ -2,7 +2,7 @@
 
 * Use the model for you own images</br>
   Open up a terminal and execute the following command:</br>
-  python inference.py --input_image image_file_name.jpg</br>
+  python inference.py --input image_file_name.jpg</br>
 
   <table>
    <tr>
