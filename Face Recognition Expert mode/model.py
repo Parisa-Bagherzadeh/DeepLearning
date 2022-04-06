@@ -3,6 +3,7 @@ from tensorflow.keras import Model
 from tensorflow.keras.layers import Conv2D,Flatten,Dense,MaxPooling2D,Dropout
 
 width=height=224
+
 class MyNet(Model):
   def __init__(self):
     super().__init__()
@@ -32,13 +33,8 @@ class MyNet(Model):
     layer8=self.pooling(layer7)
 
     layer9=self.flatten(layer8)
-    layer10=self.droupout(layer9)
-
-    layer11=self.dense_1(layer10)
-    layer12=self.droupout(layer11)
-
-    layer13=self.dense_2(layer12)
-    layer14=self.droupout(layer13)
-
+    layer13=self.droupout(self.dense_1(layer9))
+  
+    layer14=self.dense_2(layer13)
     output=self.dense_3(layer14)
     return output
