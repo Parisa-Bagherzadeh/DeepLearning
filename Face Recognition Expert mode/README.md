@@ -12,12 +12,12 @@
    </tr>
    <tr>
     <td>Train</td>
-    <td>0.91</td>
-    <td>0.008</td>
+    <td>0.93</td>
+    <td>0.006</td>
    </tr>
    <tr>
     <td>Validation</td>
-    <td>0.81</td>
-    <td>0.01</td>
+    <td>0.88</td>
+    <td>0.013</td>
    </tr>
   </table>
