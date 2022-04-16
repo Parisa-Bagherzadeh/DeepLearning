@@ -5,6 +5,10 @@
   
   python inference.py --input_model ./weights </br>
   python inference.py --input_image ./images  </br>
+  </br>
+  </br>
+  
+  <img src='https://github.com/Parisa-Bagherzadeh/DeepLearning/blob/main/UNet_day2night/ui/form.png' width='650'/>
 
   
 
